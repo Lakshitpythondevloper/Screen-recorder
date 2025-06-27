@@ -1,6 +1,6 @@
 # 🎥 Screen Recorder
 
-![Screen Recorder Banner](assets/banner.png)
+
 
 A simple and efficient screen recording application built with Python. Capture your screen activity with ease—perfect for tutorials, presentations, gameplay, and more!
 
